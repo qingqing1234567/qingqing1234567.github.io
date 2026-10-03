@@ -1,0 +1,4 @@
+/* 圆角卡片加深阴影 */
+#recent-posts > .recent-post-item {
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
